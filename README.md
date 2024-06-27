@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## About Me
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, TailwindCSS, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
+- 🌱 Currently enhancing my skills in HTML, CSS, TailwindCSS, JavaScript, SQL, MongoDB, NodeJS, ExpressJS, ReactJS
 - 🎓 Pursuing Masters in Computer Applications
 
 ## Tools and Languages
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 
 ## Let's Connect!
