@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-61F2FB?style=flat&logo=tailwindcss&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
 
